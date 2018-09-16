@@ -7,7 +7,7 @@ from discord.ext import commands
 import argparse
 
 
-token = 'NDkwNzg4MjQ4Mjg1NzQxMDU2.Dn-d7w.Nevhj3nNUpWB6GaOt-wDlEGLo6U' #You can replace the token if you want
+token = '#Place Token Here'
 prefix = ('!')
 
 parser = argparse.ArgumentParser(description='Read README.md for instructions')
