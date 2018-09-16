@@ -11,6 +11,9 @@ Usage:
 python3 bot.py -s [file] -id [channel id] -t [text] -c [codec]
 
 "file" can be any .wav file placed in sounds
+
 "channel_id" should be the ID of the sound channel you want the bot to play in
+
 "text" is the text that the bot should look for
+
 "codec" should be the location of the opus lib (Windows example: C:\codec\libopus-0.dll)(Linux example: /usr/local/lib/libopus.so)
