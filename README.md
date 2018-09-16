@@ -3,8 +3,11 @@
 Use this bot when you want to play a sound when a word is found in a message 
 
 Requirements: 
+
 pip install discord.py discord.py[voice] PyNaCl
+
 Download opus codec: http://opus-codec.org/downloads/
+
 
 Usage:
 
